@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\e4-mvcvnepress\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|solutionrelative:e4-mvcvnepress\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|c:\\users\\ngomu\\source\\repos\\e4-mvcvnepress\\e4-mvcvnepress\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|solutionrelative:e4-mvcvnepress\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|c:\\users\\ngomu\\source\\repos\\e4-mvcvnepress\\e4-mvcvnepress\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|solutionrelative:e4-mvcvnepress\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\e4-mvcvnepress\\content\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|solutionrelative:e4-mvcvnepress\\content\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|c:\\users\\ngomu\\source\\repos\\e4-mvcvnepress\\e4-mvcvnepress\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|solutionrelative:e4-mvcvnepress\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|c:\\users\\ngomu\\source\\repos\\e4-mvcvnepress\\e4-mvcvnepress\\views\\home\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB6E8C08-406F-4122-B78E-C73B2944ACFF}|E4-MVCVNEPRESS\\E4-MVCVNEPRESS.csproj|solutionrelative:e4-mvcvnepress\\views\\home\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Views\\web.config",
+              "RelativeDocumentMoniker": "E4-MVCVNEPRESS\\Views\\web.config",
+              "ToolTip": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Views\\web.config",
+              "RelativeToolTip": "E4-MVCVNEPRESS\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-07T03:31:37.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Views\\Home\\View.cshtml",
+              "RelativeDocumentMoniker": "E4-MVCVNEPRESS\\Views\\Home\\View.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Views\\Home\\View.cshtml",
+              "RelativeToolTip": "E4-MVCVNEPRESS\\Views\\Home\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T03:08:38.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E4-MVCVNEPRESS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E4-MVCVNEPRESS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T03:03:05.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Styles.CSS",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Content\\CSS\\Styles.CSS",
+              "RelativeDocumentMoniker": "E4-MVCVNEPRESS\\Content\\CSS\\Styles.CSS",
+              "ToolTip": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Content\\CSS\\Styles.CSS",
+              "RelativeToolTip": "E4-MVCVNEPRESS\\Content\\CSS\\Styles.CSS",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-07T02:07:29.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E4-MVCVNEPRESS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E4-MVCVNEPRESS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T02:02:46.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E4-MVCVNEPRESS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\source\\repos\\E4-MVCVNEPRESS\\E4-MVCVNEPRESS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E4-MVCVNEPRESS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:00:38.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
